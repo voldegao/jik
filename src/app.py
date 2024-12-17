@@ -107,5 +107,5 @@ def run(api_url):
     print("Prediction:", prediction.item())
 
 if __name__ == "__main__":
-    api_url = os.getenv("API_URL", "https://rnhlx-154-144-224-93.a.free.pinggy.link/api/visilog/ml/data/attente_externe")
+    api_url = os.getenv("API_URL", "https://rnykf-154-144-224-93.a.free.pinggy.link//api/visilog/ml/data/attente_externe")
     run(api_url)
